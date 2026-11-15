@@ -1,6 +1,6 @@
 # Week 01 — Python for Machine Learning & Data Preprocessing
 
-This folder contains the Week 01 practical implementation, notebook, tests, synthetic demo outputs, and report materials.
+This folder contains the Week 01 practical implementation, notebook, reusable preprocessing code, scripts, a small synthetic fixture, tests, and report materials. Run the documented offline-demo command to generate demo outputs locally.
 
 ## Dataset
 
