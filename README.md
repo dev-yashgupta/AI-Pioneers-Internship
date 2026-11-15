@@ -10,9 +10,9 @@ Week-wise repository for the AI Pioneers Machine Learning Internship.
 
 ## Week 01
 
-The Week 01 project includes an executable Jupyter notebook, reusable Python preprocessing modules, data-download and pipeline scripts, a labelled synthetic offline fixture, generated demonstration outputs, tests, a Word internship report, and a portal description exceeding 200 words.
+The Week 01 folder includes an executable Jupyter notebook, reusable Python preprocessing modules, data-download and pipeline scripts, a labelled synthetic offline fixture, tests, and a Markdown report. The submission-ready Word report (.docx) and portal description are provided separately with the project package in this ChatGPT conversation.
 
-The workflow is designed for the UCI Bank Marketing dataset (`bank-additional-full.csv`, dataset ID 222). It downloads the official source when run; raw source data is not committed. See the Week 01 README for setup and execution instructions.
+The workflow is designed for the UCI Bank Marketing dataset (bank-additional-full.csv, dataset ID 222). It downloads the official source when run; raw source data is not committed. See the Week 01 README for setup and execution instructions.
 
 ## Repository conventions
 
